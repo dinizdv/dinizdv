@@ -34,6 +34,6 @@
 
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https.linkedin.com/in/bruno-diniz-oliveira-426a67286)](https.linkedin.com/in/bruno-diniz-oliveira-426a67286)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-diniz-oliveira-426a67286)](https://www.linkedin.com/in/bruno-diniz-oliveira-426a67286)
 [![Gmail Badge](https://img.shields.io/badge/-brunodinizoliveira3@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunodinizoliveira3@gmail.com)](mailto:brunodinizoliveira3@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/dinizdv?label=follow&style=social)](https://github.com/dinizdv)
