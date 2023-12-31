@@ -4,7 +4,6 @@
 
 - 🚀 Apaixonado pelo **Desenvolvimento Front-End**.
 - 🎓 Estudando **Desenvolvimento de Sistemas** no SENAI-SP.
-- 🌱 Aprendendo mais sobre **Bootstrap & Node.js** atualmente.
 
 <h3>Minhas Skills</h3>
 
