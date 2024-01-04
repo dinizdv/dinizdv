@@ -34,6 +34,13 @@
 
 <h3>Onde me encontrar</h3>
 
+# Bootstrap
+✔️ In this repository I will bring content, explanations and projects with Bootstrap. 
+
+⭐ If you liked my content, star the repository! 
+
+<h3>Where to find me?</h3>
+
+[![Instagram](https://img.shields.io/badge/-Instagram-crimson?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/dinizdev?igshid=NzZlODBkYWE4Ng==)](https://instagram.com/dinizdev?igshid=NzZlODBkYWE4Ng==)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-diniz-oliveira-426a67286)](https://www.linkedin.com/in/bruno-diniz-oliveira-426a67286)
-[![Gmail Badge](https://img.shields.io/badge/-brunodinizoliveira3@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunodinizoliveira3@gmail.com)](mailto:brunodinizoliveira3@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/dinizdv?label=follow&style=social)](https://github.com/dinizdv)
