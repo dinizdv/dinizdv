@@ -43,4 +43,4 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-crimson?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/dinizdev?igshid=NzZlODBkYWE4Ng==)](https://instagram.com/dinizdev?igshid=NzZlODBkYWE4Ng==)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-diniz-oliveira-426a67286)](https://www.linkedin.com/in/bruno-diniz-oliveira-426a67286)
-[![GitHub](https://img.shields.io/github/followers/dinizdv?label=follow&style=social)](https://github.com/dinizdv)
+
