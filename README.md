@@ -2,10 +2,11 @@
 
 <h3>Sobre mim</h3>
 
-- 🚀 Apaixonado pelo **Desenvolvimento Front-End**.
-- 🎓 Estudando **Desenvolvimento de Sistemas** no SENAI-SP.
+- 🚀 **Desenvolvedor Front-End**, com especialidade em React.
+- 🎓 Cursando o quarto semestre em **Análise e Desenvolvimento de Sistemas** no SENAI-SP.
+<hr>
 
-**Habilidades técnicas**
+<h3>Habilidades técnicas</h3>
 
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -13,10 +14,11 @@
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
 
-**Ferramentas**
+<h3>Ferramentas</h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logo)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 
 
